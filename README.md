@@ -21,7 +21,7 @@
 
 <h1> My Most Used Programming Languages </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talmax1124&theme=react)](https://github.com/subham-202/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subham-202&theme=react)](https://github.com/subham-202/github-readme-stats)
 
 <br>
 
