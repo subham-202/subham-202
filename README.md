@@ -1,10 +1,10 @@
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ### Hi there 👋
 
 
 <h3>A passionate FullStack developer from India</h3>
 
 - 📫 How to reach me **shubham.deep.202@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- <p align="left"> -->
 <!-- </p> -->
