@@ -25,9 +25,9 @@
 
 <br>
 
-<h1> My Current Works </h1>
+<!-- <h1> My Current Works </h1>
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=talmax1124&repo=Ups-Downs-Buttons&theme=react)](https://github.com/subham-202/Ups-Downs-Buttons)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=talmax1124&repo=Ups-Downs-Buttons&theme=react)](https://github.com/subham-202/Ups-Downs-Buttons) -->
 
 <br>
 
